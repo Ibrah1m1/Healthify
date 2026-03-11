@@ -107,11 +107,12 @@ java -cp out Main
 
 ## 👥 Team
 
-| Name | Role |
-|------|------|
-| **Ibrahim Eissa** |Leader,Database Design, SQL Implementation|
-| **Yassen Sayari** | ERD Design, Documentation |
-| **Mohammed Mamdouh** | Query Development, Testing |
+| Name | Student ID | Role |
+|------|-----------|------|
+| **Ibrahim Eissa** | 2342951 | Core Logic, BMI Calculator, File Handling |
+| **Abdullah Misar** | 2342929 | UI Design, Splash Window, Dashboard |
+| **Yazeed Bafaqih** | 2340398 | History Window, Data Visualization |
+| **Ryan Khaled** | 2342943 | Testing, Documentation, Bug Fixes |
 
 ## 🎓 Learning Outcomes
 

@@ -116,12 +116,14 @@ java -cp out Main
 
 📧 Contact
 
-Ibrahim Eissa Abu Alghayth
-📧 ibrahim.abualg@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/yourname
-🐙 GitHub: https://github.com/Ibrah1m1
-📄 Project Documentation
+**Ibrahim Eissa Abu Alghayth**
+-📧 ibrahim.abualg@gmail.com
 
-Stage 3 Project Report: [Project.pdf](https://github.com/user-attachments/files/25886065/Project.pdf)
+-🔗 LinkedIn: https://linkedin.com/in/yourname
+
+-🐙 GitHub: https://github.com/Ibrah1m1
+
+-📄 Project Documentation
+ [Project.pdf](https://github.com/user-attachments/files/25886065/Project.pdf)
 
 Made with ❤️ by the Healthify Team

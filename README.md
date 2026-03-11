@@ -109,12 +109,20 @@ java -cp out Main
 
 | Name | Role |
 |------|------|
-| **Ibrahim Eissa** |Leader|
-| **Abdullah Misar** | Member |
-| **Ryan Khaled** | Member |
-| **Yazeed Bafaqih** |Member|
+| **Ibrahim Eissa** |Leader,Database Design, SQL Implementation|
+| **Yassen Sayari** | ERD Design, Documentation |
+| **Mohammed Mamdouh** | Query Development, Testing |
 
-📧 Contact
+## 🎓 Learning Outcomes
+
+✅ Designed a normalized relational database schema (3NF)
+✅ Implemented complex SQL queries with JOINs, subqueries, and aggregates
+✅ Created stored procedures for reusable database operations
+✅ Applied entity-relationship modeling principles
+✅ Collaborated on a team-based software engineering project
+
+
+## 📧 Contact
 
 **Ibrahim Eissa Abu Alghayth**
 
@@ -127,4 +135,4 @@ java -cp out Main
 -📄 Project Documentation
  [Project.pdf](https://github.com/user-attachments/files/25886065/Project.pdf)
 
-Made with ❤️ by the Healthify Team
+Made with ❤️ by Ibrahim Eissa & Team
